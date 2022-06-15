@@ -21,6 +21,7 @@ You'll need to know the code of your deputy (PAXXXXXX), which can be found in th
  - Save API Key, API Key Secret and Bearer Token. You'll be able to regenerate them later if you loose them
  - Click "Skip to dashboard"
  - On the left of the dashboard go to Project & App -> NameOfYourApp
+ - Set up AAuth1.0 with Read and Write authorizations (put random domain names in required fields)
  - Then, on the top of the screen click "Keys and tokens" and generate "Access Token and Secret", save them too !
  
  Here you go ! You've made it. Your twitter account is all set up now.
